@@ -1,5 +1,6 @@
 # AlphaTR
 
+AlphaTR is a VBA program designed to format and edit a transcriptionists work prior to it reaching the QA. The editing and formatting is all done through a series of macros that check the formatting to the official QA style guide.
 ---
 
 ### Install Instructions - (Windows)
