@@ -20,4 +20,27 @@
 6. Click on each one and then click the copy button to transfer them to Normal.dotm
     - NOTE: if the file name changes for whateevr reason, click rename and change the file back to the original name displayed on the left
 7. Click Close and restart Word
+
 ---
+
+### Using Macros
+On the View tabe, you'll see a Macros button. By clicking on the button, you'll see the available macros. You can double click or click run to use them.
+
+---
+
+### TR Checklist
+
+![TR Checklist](https://i.imgur.com/JrhJHxql.png)
+
+TR checklist currently has four basic features. Tag Count, Cleanup, and then direct links to both the Key Style Guide and the Terminology Database.
+Tag Count
+Tag Count will tell you the total number of inaudibles, guesses, crosstalks, foreign tags, and research tags in any file.
+Cleanup
+Cleanup is the primary function of TR Checklist. It will ASSIST in format the transcript to AlphaScribes requirements in order to deliver the cleanest transcript possible and aid in eliminating unnecessary point deductions later on. It is advised to not simply rely on the program to format the transcript, but rather use it as a tool. Cleanup performs the following tasks:
+- Eliminates two spaces that start a sentence
+- Replaces straight quotes with curly quotes
+- Doesn’t change the user’s specified settings
+- Searches for incorrectly formatted timestamps
+- Searches for incorrect punctuation
+- Runs bug fixes in the background to correct a common spacing issue that Word creates caused by incorrect borders 
+- Runs Spellcheck
